@@ -1,7 +1,7 @@
 # Ex 4 Deployment and configuration of a Private Cloud in AWS
-NAME: HARINE S
+NAME: Keerthana A
 
-REG NO: 212224230081
+REG NO: 212224220046
 ## Aim:
 To set up of a Private Cloud in AWS.
 
